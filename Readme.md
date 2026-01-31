@@ -21,7 +21,8 @@ Prototype a governance module for a mock DAO on Aptos. VID-Pipe caches "humanity
 ### Reputation Systems
 Create a DeFi lending protocol where VID-Pipe verifies on-chain credit history or social proofs (e.g., Lens Protocol follows). Lenders query cached scores for instant risk assessment, with privacy via zk-SNARKs. Visualize reputation accrual over simulated transactions.
 
-<img width="1021" height="120" alt="image" src="https://github.com/user-attachments/assets/55421a5e-ad08-4160-82ab-5a9ca24b5679" />
+<img width="995" height="120" alt="image" src="https://github.com/user-attachments/assets/54e19364-625f-4586-a577-31984c95eb92" />
+
 
 
 ## Technical Deep Dive
