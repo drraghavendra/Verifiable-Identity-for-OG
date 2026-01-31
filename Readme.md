@@ -1,4 +1,4 @@
-VID-Pipe offers a compelling hackathon idea by tackling a core Web3 pain point: repetitive identity verification that hampers scalability and user experience.
+VerifiableIDentity- DataPipeline  offers a compelling hackathon idea by tackling a core Web3 pain point: repetitive identity verification that hampers scalability and user experience.
 
 ## Core Innovation
 VID-Pipe is a decentralized pipeline for verifiable identity data, leveraging 0G Foundation's Code-to-Cache infrastructure. It processes inputs like Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs), normalizes them into privacy-preserving formats, runs deterministic verification, and caches only the cryptographic proof of trust—never the raw data. This creates tamper-proof, globally accessible verification results that smart contracts and dApps can query instantly, blending Web2 speed with Web3 security.
