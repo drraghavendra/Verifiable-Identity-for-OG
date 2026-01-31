@@ -26,5 +26,9 @@ Create a DeFi lending protocol where VID-Pipe verifies on-chain credit history o
 
 
 ## Technical Deep Dive
-Start with 0G's Code-to-Cache: Deploy verification logic as a deterministic function (e.g., in Rust). Input: DID/VC bundle. Output: Merkle-proof hash stored in 0G's decentralized cache. Retrieval via read-only RPCs ensures <10ms global access. Edge cases to explore: Cross-chain DID resolution (using Universal Resolver) and revocation handling (via CRLFs in cache updates).
+Start with 0G's Code-to-Cache: Deploy verification logic as a deterministic function (e.g., in Rust). 
+
+Input: DID/VC bundle. Output: Merkle-proof hash stored in 0G's decentralized cache. Retrieval via read-only RPCs ensures <10ms global access. 
+
+Edge cases to explore: Cross-chain DID resolution (using Universal Resolver) and revocation handling (via CRLFs in cache updates).
 
